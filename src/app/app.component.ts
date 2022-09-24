@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { UserProfilComponent } from './user-profil/user-profil.component';
 
 @Component({
   selector: 'app-root',
@@ -7,4 +8,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'bindingEx';
+  
 }
